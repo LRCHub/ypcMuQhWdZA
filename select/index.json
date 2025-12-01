@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "往欄印",
+  "base_artist": "MyGO!!!!!",
+  "createdAt": "2025-12-01T01:34:17.402350Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "往欄印",
+      "artist": "MyGO!!!!!",
+      "has_synced": true,
+      "path": "select/01_往欄印_MyGO!!!!!.lrc"
+    },
+    {
+      "id": "petitlyrics",
+      "source": "petitlyrics",
+      "title": "往欄印",
+      "artist": "MyGO!!!!!",
+      "has_synced": false,
+      "path": "select/pl_往欄印_MyGO!!!!!.txt"
+    }
+  ]
+}
